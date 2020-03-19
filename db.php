@@ -31,20 +31,20 @@ $mysqli = new mysqli('us-cdbr-iron-east-04.cleardb.net', 'bd5859b5036734', 'db74
 // -- Table structure for table `users`
 // --
 
-$sql = "CREATE TABLE `users` (
-  `id` int(99) NOT NULL,
-  `email` varchar(99) NOT NULL,
-  `password` varchar(99) NOT NULL,
-  `first_name` varchar(99) NOT NULL,
-  `last_name` varchar(99) NOT NULL,
-  `address` varchar(99) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1";
+// $sql = "CREATE TABLE `users` (
+//   `id` int(99) NOT NULL,
+//   `email` varchar(99) NOT NULL,
+//   `password` varchar(99) NOT NULL,
+//   `first_name` varchar(99) NOT NULL,
+//   `last_name` varchar(99) NOT NULL,
+//   `address` varchar(99) NOT NULL
+// ) ENGINE=InnoDB DEFAULT CHARSET=latin1";
 
-if ($mysqli->query($sql)) {
-    echo "good";
-}else{
-    echo "bad" .$mysqli->error;
-}
+// if ($mysqli->query($sql)) {
+//     echo "good";
+// }else{
+//     echo "bad" .$mysqli->error;
+// }
 
 // --
 // -- Dumping data for table `users`
