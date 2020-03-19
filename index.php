@@ -60,7 +60,7 @@ session_start();
 <div class="row">
   <div class='col-sm-12 col-md-6'>
   <h2 class="text-center">What do we Stand for?</h2>
-  <p style="font-size:1.2rem; text-align:left;" >Waste mismanagement is a severe problem in Lagos whereby thousand Tonnes of wastes are clogging the drainages and landfill. This wastes can however be monetized through recycling if a well structured system is directed towards waste sorting.
+  <p style="font-size:1.2rem; text-align:justify;" >Waste mismanagement is a severe problem in Lagos whereby thousand Tonnes of wastes are clogging the drainages and landfill. This wastes can however be monetized through recycling if a well structured system is directed towards waste sorting.
 Amp Cyclers stand for high waste sorting culture, proper waste disposal and recycling. We strongly uphold our values of sustainable cities and communities by ensuring low carbon emission and climate action through smart waste management system. We also stand for life on land and life on water
 The sustainable development goals 11, 13, 14 and 15 to drive towards a smart Lagos are our threshold. </p>
   </div>
